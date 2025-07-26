@@ -1,0 +1,67 @@
+# === Python Cache ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# === Virtual Environment ===
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === Logs and Debug ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.~*
+
+# === Compiled distributions (e.g. PyInstaller or setup.py builds) ===
+build/
+dist/
+*.spec
+
+# === Output files (optional) ===
+output/
+screenshots/
+*.ppm
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# === EPUB/PDF Extraction Cache ===
+extracted_epub/
+temp_epub/
+*.epub-extract/
+
+# === Ignore test documents ===
+*.pdf
+*.epub
+
+# === IDEs and Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === System Files ===
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Mac OS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === Windows ===
+*.lnk
