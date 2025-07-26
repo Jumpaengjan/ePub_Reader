@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="30 Days of Worldbuilding" />
+        <meta name="dtb:depth" content="1" />
+        <meta name="dtb:totalPageCount" content="0" />
+        <meta name="dtb:maxPageNumber" content="0" />
+    </head>
+
+    <docTitle>
+        <text>30 Days of Worldbuilding</text>
+    </docTitle>
+
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Table of Contents</text>
+            </navLabel>
+            <content src="TableOfContents.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>30 Days of Worldbuilding</text>
+            </navLabel>
+            <content src="section-0001.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Copyright</text>
+            </navLabel>
+            <content src="section-0002.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Author Guides Series</text>
+            </navLabel>
+            <content src="section-0003.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Introduction</text>
+            </navLabel>
+            <content src="section-0004.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>Using this Guidebook</text>
+            </navLabel>
+            <content src="section-0005.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Worldbuilding Basics</text>
+            </navLabel>
+            <content src="section-0006.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>Day 1: Genre and Setting</text>
+            </navLabel>
+            <content src="section-0007.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>Day 2: Draw Your Map</text>
+            </navLabel>
+            <content src="section-0008.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>Day 3: Water Sources</text>
+            </navLabel>
+            <content src="section-0009.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>Day 4: Capital</text>
+            </navLabel>
+            <content src="section-0010.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>Day 5: Landscape</text>
+            </navLabel>
+            <content src="section-0011.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>Day 6: Natural Resources</text>
+            </navLabel>
+            <content src="section-0012.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>Day 7: Sapient Species</text>
+            </navLabel>
+            <content src="section-0013.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>Day 8: Food</text>
+            </navLabel>
+            <content src="section-0014.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>Day 9: Farmed Animals</text>
+            </navLabel>
+            <content src="section-0015.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>Day 10: Natural Predators</text>
+            </navLabel>
+            <content src="section-0016.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>Day 11: Climate and Seasons</text>
+            </navLabel>
+            <content src="section-0017.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>Day 12: Trade Routes and Travel</text>
+            </navLabel>
+            <content src="section-0018.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>Day 13: Important Trade Towns</text>
+            </navLabel>
+            <content src="section-0019.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>Day 14: Education</text>
+            </navLabel>
+            <content src="section-0020.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>Day 15: Law and Order</text>
+            </navLabel>
+            <content src="section-0021.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>Day 16: Government Structure</text>
+            </navLabel>
+            <content src="section-0022.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>Day 17: Economics</text>
+            </navLabel>
+            <content src="section-0023.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>Day 18: Family Groups</text>
+            </navLabel>
+            <content src="section-0024.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>Day 19: Gender Roles</text>
+            </navLabel>
+            <content src="section-0025.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>Day 20: Employment</text>
+            </navLabel>
+            <content src="section-0026.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>Day 21: Class Divides and Social Mobility</text>
+            </navLabel>
+            <content src="section-0027.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>Day 22: Religious and Spiritual Belief Structure</text>
+            </navLabel>
+            <content src="section-0028.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>Day 23: Magic</text>
+            </navLabel>
+            <content src="section-0029.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>Day 24: Festivals and Celebrations</text>
+            </navLabel>
+            <content src="section-0030.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+                <text>Day 25: Technology</text>
+            </navLabel>
+            <content src="section-0031.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>Day 26: Medicine</text>
+            </navLabel>
+            <content src="section-0032.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+                <text>Day 27: Weaponry</text>
+            </navLabel>
+            <content src="section-0033.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>Day 28: Historic Wars</text>
+            </navLabel>
+            <content src="section-0034.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+                <text>Day 29: Social Change and Revolution</text>
+            </navLabel>
+            <content src="section-0035.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+                <text>Day 30: Other Historic Events</text>
+            </navLabel>
+            <content src="section-0036.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>Congratulations!</text>
+            </navLabel>
+            <content src="section-0037.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+                <text>Bonus: Creating a Magic System</text>
+            </navLabel>
+            <content src="section-0038.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+                <text>1: Genre</text>
+            </navLabel>
+            <content src="section-0039.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+                <text>2: Setting</text>
+            </navLabel>
+            <content src="section-0040.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+                <text>3: Character</text>
+            </navLabel>
+            <content src="section-0041.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+                <text>4: Society</text>
+            </navLabel>
+            <content src="section-0042.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+                <text>5: Magical Items</text>
+            </navLabel>
+            <content src="section-0043.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+                <text>6: Limitations</text>
+            </navLabel>
+            <content src="section-0044.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+                <text>7: Consequences</text>
+            </navLabel>
+            <content src="section-0045.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+                <text>8: Working with More than One Magic System</text>
+            </navLabel>
+            <content src="section-0046.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+                <text>A Word in Info Dumping and Learning Curves</text>
+            </navLabel>
+            <content src="section-0047.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+                <text>Ideas Dump</text>
+            </navLabel>
+            <content src="section-0048.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+                <text>Want Even More Worldbuilding?</text>
+            </navLabel>
+            <content src="section-0049.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+                <text>About Angeline Trevena</text>
+            </navLabel>
+            <content src="section-0050.xhtml" />
+        </navPoint>
+    </navMap>
+</ncx>

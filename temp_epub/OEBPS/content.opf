@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" >
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>(ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide, 3rd Edition</dc:title>
+<dc:creator opf:file-as="Mike Wills" opf:role="aut">Mike Wills</dc:creator>
+<dc:description>&lt;span&gt;&lt;p&gt;&lt;b&gt;The only SSCP study guide officially approved by (ISC)2&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The (ISC)2 Systems Security Certified Practitioner (SSCP) certification is a well-known vendor-neutral global IT security certification. The SSCP is designed to show that holders have the technical skills to implement, monitor, and administer IT infrastructure using information security policies and procedures.&lt;/p&gt;&lt;p&gt;This comprehensive Official Study Guide—the only study guide officially approved by (ISC)2—covers all objectives of the seven SSCP domains.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Security Operations and Administration&lt;/li&gt;&lt;li&gt;Access Controls&lt;/li&gt;&lt;li&gt;Risk Identification, Monitoring, and Analysis&lt;/li&gt;&lt;li&gt;Incident Response and Recovery&lt;/li&gt;&lt;li&gt;Cryptography&lt;/li&gt;&lt;li&gt;Network and Communications Security&lt;/li&gt;&lt;li&gt;Systems and Application Security&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This updated &lt;i&gt;Third Edition&lt;/i&gt; covers the SSCP exam objectives effective as of November 2021. Much of the new and more advanced knowledge expected of an SSCP is now covered in a new chapter &quot;Cross-Domain Challenges.&quot; If you&#x27;re an information security professional or student of cybersecurity looking to tackle one or more of the seven domains of the SSCP, this guide gets you prepared to pass the exam and enter the information security workforce with confidence.&lt;/p&gt;&lt;/span&gt;</dc:description>
+<dc:publisher>Sybex</dc:publisher>
+<dc:rights></dc:rights>
+<dc:language>en-US</dc:language>
+<dc:date>2022-02-02</dc:date>
+<dc:identifier id="bookid">9781119854982</dc:identifier>
+<meta name="cover" content="Images/9781119854999.jpg"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+<item id="navigation" href="navigation.xhtml" media-type="application/xhtml+xml" />
+<item id="f01" href="f01.xhtml" media-type="application/xhtml+xml" />
+<item id="f02" href="f02.xhtml" media-type="application/xhtml+xml" />
+<item id="f03" href="f03.xhtml" media-type="application/xhtml+xml" />
+<item id="f04" href="f04.xhtml" media-type="application/xhtml+xml" />
+<item id="f05" href="f05.xhtml" media-type="application/xhtml+xml" />
+<item id="f06" href="f06.xhtml" media-type="application/xhtml+xml" />
+<item id="p01" href="p01.xhtml" media-type="application/xhtml+xml" />
+<item id="c01" href="c01.xhtml" media-type="application/xhtml+xml" />
+<item id="c02" href="c02.xhtml" media-type="application/xhtml+xml" />
+<item id="p02" href="p02.xhtml" media-type="application/xhtml+xml" />
+<item id="c03" href="c03.xhtml" media-type="application/xhtml+xml" />
+<item id="c04" href="c04.xhtml" media-type="application/xhtml+xml" />
+<item id="p03" href="p03.xhtml" media-type="application/xhtml+xml" />
+<item id="c05" href="c05.xhtml" media-type="application/xhtml+xml" />
+<item id="c06" href="c06.xhtml" media-type="application/xhtml+xml" />
+<item id="c07" href="c07.xhtml" media-type="application/xhtml+xml" />
+<item id="c08" href="c08.xhtml" media-type="application/xhtml+xml" />
+<item id="c09" href="c09.xhtml" media-type="application/xhtml+xml" />
+<item id="c10" href="c10.xhtml" media-type="application/xhtml+xml" />
+<item id="p04" href="p04.xhtml" media-type="application/xhtml+xml" />
+<item id="c11" href="c11.xhtml" media-type="application/xhtml+xml" />
+<item id="c12" href="c12.xhtml" media-type="application/xhtml+xml" />
+<item id="b01" href="b01.xhtml" media-type="application/xhtml+xml" />
+<item id="b02" href="b02.xhtml" media-type="application/xhtml+xml" />
+<item id="b03" href="b03.xhtml" media-type="application/xhtml+xml" />
+<item id="eula" href="eula.xhtml" media-type="application/xhtml+xml" />
+<item id="img_warning" href="Images/warning.png" media-type="image/png" />
+<item id="img_c09f001" href="Images/c09f001.png" media-type="image/png" />
+<item id="img_logo" href="Images/logo.jpg" media-type="image/jpeg" />
+<item id="img_c03f005" href="Images/c03f005.png" media-type="image/png" />
+<item id="img_c03f007" href="Images/c03f007.png" media-type="image/png" />
+<item id="img_c05f009" href="Images/c05f009.png" media-type="image/png" />
+<item id="img_c05f005" href="Images/c05f005.png" media-type="image/png" />
+<item id="img_c05f008" href="Images/c05f008.png" media-type="image/png" />
+<item id="img_c07f004" href="Images/c07f004.png" media-type="image/png" />
+<item id="img_c07f006" href="Images/c07f006.png" media-type="image/png" />
+<item id="img_c03f002" href="Images/c03f002.png" media-type="image/png" />
+<item id="img_c08f001" href="Images/c08f001.png" media-type="image/png" />
+<item id="img_c07f007" href="Images/c07f007.png" media-type="image/png" />
+<item id="img_c11f001" href="Images/c11f001.png" media-type="image/png" />
+<item id="img_c10f005" href="Images/c10f005.png" media-type="image/png" />
+<item id="img_c01f005" href="Images/c01f005.png" media-type="image/png" />
+<item id="img_c06f006" href="Images/c06f006.png" media-type="image/png" />
+<item id="img_c05f006" href="Images/c05f006.png" media-type="image/png" />
+<item id="img_c08f002" href="Images/c08f002.png" media-type="image/png" />
+<item id="img_c04f002" href="Images/c04f002.png" media-type="image/png" />
+<item id="img_c07f001" href="Images/c07f001.png" media-type="image/png" />
+<item id="img_c01f001" href="Images/c01f001.png" media-type="image/png" />
+<item id="img_c03uf001" href="Images/c03uf001.png" media-type="image/png" />
+<item id="img_c05f001" href="Images/c05f001.png" media-type="image/png" />
+<item id="img_9781119854999" href="Images/9781119854999.jpg" media-type="image/jpeg" />
+<item id="img_design" href="Images/design.png" media-type="image/png" />
+<item id="img_c10f004" href="Images/c10f004.png" media-type="image/png" />
+<item id="img_c11f002" href="Images/c11f002.png" media-type="image/png" />
+<item id="img_c07uf001" href="Images/c07uf001.png" media-type="image/png" />
+<item id="img_c04f001" href="Images/c04f001.png" media-type="image/png" />
+<item id="img_c06f001" href="Images/c06f001.png" media-type="image/png" />
+<item id="img_c10f002" href="Images/c10f002.png" media-type="image/png" />
+<item id="img_c10f003" href="Images/c10f003.png" media-type="image/png" />
+<item id="img_realworld" href="Images/realworld.png" media-type="image/png" />
+<item id="img_title" href="Images/title.png" media-type="image/png" />
+<item id="img_c01f002" href="Images/c01f002.png" media-type="image/png" />
+<item id="img_c06f004" href="Images/c06f004.png" media-type="image/png" />
+<item id="img_c05f003" href="Images/c05f003.png" media-type="image/png" />
+<item id="img_c06f003" href="Images/c06f003.png" media-type="image/png" />
+<item id="img_c11f003" href="Images/c11f003.png" media-type="image/png" />
+<item id="img_c05f004" href="Images/c05f004.png" media-type="image/png" />
+<item id="img_c01f006" href="Images/c01f006.png" media-type="image/png" />
+<item id="img_c03f006" href="Images/c03f006.png" media-type="image/png" />
+<item id="img_c03f003" href="Images/c03f003.png" media-type="image/png" />
+<item id="img_c03f004" href="Images/c03f004.png" media-type="image/png" />
+<item id="img_note" href="Images/note.png" media-type="image/png" />
+<item id="img_c03f001" href="Images/c03f001.png" media-type="image/png" />
+<item id="img_c06f005" href="Images/c06f005.png" media-type="image/png" />
+<item id="img_tip" href="Images/tip.png" media-type="image/png" />
+<item id="img_c07f003" href="Images/c07f003.png" media-type="image/png" />
+<item id="img_c06f002" href="Images/c06f002.png" media-type="image/png" />
+<item id="img_c07f005" href="Images/c07f005.png" media-type="image/png" />
+<item id="img_ffirsuf001" href="Images/ffirsuf001.png" media-type="image/png" />
+<item id="img_c06f007" href="Images/c06f007.png" media-type="image/png" />
+<item id="img_c05f007" href="Images/c05f007.png" media-type="image/png" />
+<item id="img_c05f002" href="Images/c05f002.png" media-type="image/png" />
+<item id="img_c07f002" href="Images/c07f002.png" media-type="image/png" />
+<item id="img_c10f001" href="Images/c10f001.png" media-type="image/png" />
+<item id="img_c01f004" href="Images/c01f004.png" media-type="image/png" />
+<item id="img_c01f003" href="Images/c01f003.png" media-type="image/png" />
+<item id="style_00" href="Styles/Style00.css" media-type="text/css" />
+<item id="style_01" href="Styles/Style01.css" media-type="text/css" />
+<item id="style_02" href="Styles/Style02.css" media-type="text/css" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="navigation"/>
+<itemref idref="f01"/>
+<itemref idref="f02"/>
+<itemref idref="f03"/>
+<itemref idref="f04"/>
+<itemref idref="f05"/>
+<itemref idref="f06"/>
+<itemref idref="p01"/>
+<itemref idref="c01"/>
+<itemref idref="c02"/>
+<itemref idref="p02"/>
+<itemref idref="c03"/>
+<itemref idref="c04"/>
+<itemref idref="p03"/>
+<itemref idref="c05"/>
+<itemref idref="c06"/>
+<itemref idref="c07"/>
+<itemref idref="c08"/>
+<itemref idref="c09"/>
+<itemref idref="c10"/>
+<itemref idref="p04"/>
+<itemref idref="c11"/>
+<itemref idref="c12"/>
+<itemref idref="b01"/>
+<itemref idref="b02"/>
+<itemref idref="b03"/>
+<itemref idref="eula"/></spine>
+<guide><reference href="cover.xhtml" title="Cover" type="cover" /></guide>
+</package>

@@ -1,0 +1,128 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <dc:title>30 Days of Worldbuilding</dc:title>
+        <dc:creator opf:file-as="Trevena, A" opf:role="aut">A Trevena</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:identifier id="BookId">30 Days of Worldbuilding</dc:identifier>
+        <dc:publisher>Bogus Caller Press</dc:publisher>
+        <dc:date opf:event="publication">2019-03-19</dc:date>
+        <meta content="cover" name="cover"/>
+    <description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;strong&gt;Overwhelmed by creating fantasy worlds?Lost in your world? Unsure where to go next?&lt;/strong&gt;30 Days of Worldbuilding breaks the task into manageable chunks. By following 30 creative prompts, this book will guide you from idea, to full world.This workbook will help you to:* Break the epic task of worldbuilding into easy steps* Build a full and complete world with prompts you may not have thought of* Tie your worldbuilding into your story to increase tension and conflict* Bring your worldbuilding back to your characters to get your readers hookedThis book also includes a bonus lesson on building magic systems that work.By completing just one prompt each day, you can have a fully created fantasy world in a month. You will also have an invaluable book of worldbuilding notes to keep beside you as you write.Get 30 Days of Worldbuilding today, and stop getting lost in your world.Available as both an ebook Guidebook and a paperback Workbook with space for answering each prompt.&lt;/p&gt;</description>
+</metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="CoverDesign.jpg" id="cover" media-type="image/jpeg"/>
+        <item href="CoverPage.xhtml" id="CoverPage_xhtml" media-type="application/xhtml+xml"/>
+        <item href="TableOfContents.xhtml" id="toc" media-type="application/xhtml+xml"/>
+        <item href="styles.css" id="styles_css" media-type="text/css"/>
+        <item href="section-0001.xhtml" id="section-0001_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0002.xhtml" id="section-0002_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0003.xhtml" id="section-0003_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0004.xhtml" id="section-0004_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0005.xhtml" id="section-0005_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0006.xhtml" id="section-0006_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0007.xhtml" id="section-0007_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0008.xhtml" id="section-0008_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0009.xhtml" id="section-0009_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0010.xhtml" id="section-0010_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0011.xhtml" id="section-0011_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0012.xhtml" id="section-0012_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0013.xhtml" id="section-0013_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0014.xhtml" id="section-0014_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0015.xhtml" id="section-0015_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0016.xhtml" id="section-0016_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0017.xhtml" id="section-0017_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0018.xhtml" id="section-0018_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0019.xhtml" id="section-0019_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0020.xhtml" id="section-0020_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0021.xhtml" id="section-0021_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0022.xhtml" id="section-0022_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0023.xhtml" id="section-0023_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0024.xhtml" id="section-0024_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0025.xhtml" id="section-0025_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0026.xhtml" id="section-0026_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0027.xhtml" id="section-0027_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0028.xhtml" id="section-0028_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0029.xhtml" id="section-0029_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0030.xhtml" id="section-0030_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0031.xhtml" id="section-0031_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0032.xhtml" id="section-0032_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0033.xhtml" id="section-0033_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0034.xhtml" id="section-0034_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0035.xhtml" id="section-0035_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0036.xhtml" id="section-0036_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0037.xhtml" id="section-0037_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0038.xhtml" id="section-0038_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0039.xhtml" id="section-0039_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0040.xhtml" id="section-0040_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0041.xhtml" id="section-0041_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0042.xhtml" id="section-0042_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0043.xhtml" id="section-0043_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0044.xhtml" id="section-0044_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0045.xhtml" id="section-0045_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0046.xhtml" id="section-0046_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0047.xhtml" id="section-0047_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0048.xhtml" id="section-0048_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0049.xhtml" id="section-0049_xhtml" media-type="application/xhtml+xml"/>
+        <item href="section-0050.xhtml" id="section-0050_xhtml" media-type="application/xhtml+xml"/>
+        <item href="image0.jpg" id="image0_jpg" media-type="image/jpeg"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="CoverPage_xhtml"/>
+        <itemref idref="toc"/>
+        <itemref idref="section-0001_xhtml"/>
+        <itemref idref="section-0002_xhtml"/>
+        <itemref idref="section-0003_xhtml"/>
+        <itemref idref="section-0004_xhtml"/>
+        <itemref idref="section-0005_xhtml"/>
+        <itemref idref="section-0006_xhtml"/>
+        <itemref idref="section-0007_xhtml"/>
+        <itemref idref="section-0008_xhtml"/>
+        <itemref idref="section-0009_xhtml"/>
+        <itemref idref="section-0010_xhtml"/>
+        <itemref idref="section-0011_xhtml"/>
+        <itemref idref="section-0012_xhtml"/>
+        <itemref idref="section-0013_xhtml"/>
+        <itemref idref="section-0014_xhtml"/>
+        <itemref idref="section-0015_xhtml"/>
+        <itemref idref="section-0016_xhtml"/>
+        <itemref idref="section-0017_xhtml"/>
+        <itemref idref="section-0018_xhtml"/>
+        <itemref idref="section-0019_xhtml"/>
+        <itemref idref="section-0020_xhtml"/>
+        <itemref idref="section-0021_xhtml"/>
+        <itemref idref="section-0022_xhtml"/>
+        <itemref idref="section-0023_xhtml"/>
+        <itemref idref="section-0024_xhtml"/>
+        <itemref idref="section-0025_xhtml"/>
+        <itemref idref="section-0026_xhtml"/>
+        <itemref idref="section-0027_xhtml"/>
+        <itemref idref="section-0028_xhtml"/>
+        <itemref idref="section-0029_xhtml"/>
+        <itemref idref="section-0030_xhtml"/>
+        <itemref idref="section-0031_xhtml"/>
+        <itemref idref="section-0032_xhtml"/>
+        <itemref idref="section-0033_xhtml"/>
+        <itemref idref="section-0034_xhtml"/>
+        <itemref idref="section-0035_xhtml"/>
+        <itemref idref="section-0036_xhtml"/>
+        <itemref idref="section-0037_xhtml"/>
+        <itemref idref="section-0038_xhtml"/>
+        <itemref idref="section-0039_xhtml"/>
+        <itemref idref="section-0040_xhtml"/>
+        <itemref idref="section-0041_xhtml"/>
+        <itemref idref="section-0042_xhtml"/>
+        <itemref idref="section-0043_xhtml"/>
+        <itemref idref="section-0044_xhtml"/>
+        <itemref idref="section-0045_xhtml"/>
+        <itemref idref="section-0046_xhtml"/>
+        <itemref idref="section-0047_xhtml"/>
+        <itemref idref="section-0048_xhtml"/>
+        <itemref idref="section-0049_xhtml"/>
+        <itemref idref="section-0050_xhtml"/>
+    </spine>
+    <guide>
+        <reference href="CoverPage.xhtml" title="Cover Page" type="cover"/>
+        <reference href="TableOfContents.xhtml#tableofcontents" title="Table of Contents" type="toc"/>
+    </guide>
+</package>
